@@ -1,0 +1,16 @@
+body {
+background-color: #34568B;
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+}
+ul {
+    font-size: 25px;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
